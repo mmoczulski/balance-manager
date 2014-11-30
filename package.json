@@ -1,0 +1,22 @@
+{
+  "name": "balance-manager",
+  "version": "0.1.0",
+  "description": "Tool used to gather and display financial balance of every day expenses and incomes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "balance",
+    "management",
+    "economy",
+    "expenses",
+    "incomes"
+  ],
+  "author": "mmoczulski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.10.4"
+  },
+  "devDependencies": {}
+}
